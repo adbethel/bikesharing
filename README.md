@@ -26,4 +26,4 @@ This image displays the breakdown of bike riders by gender:
 https://capture.dropbox.com/tlJrGWCSMjCD41Bl
 
 Summary:
-The results show us that the target popuation of bikers will mostly be male, 
+The results show us that the target popuation of bikers will mostly be male, and the most popular times for bike riding will be in the morenings and evenings, before and after the workday begins.
