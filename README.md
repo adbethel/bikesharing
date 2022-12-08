@@ -22,6 +22,8 @@ The following image displays the frequency of trips taken by useres by hour duri
 The below image displays the popular times that customers checkout bikes:
 ![Checkout Times for Users](https://user-images.githubusercontent.com/112285856/206053539-2e1f723f-7460-4c80-9f14-6ff56221ca25.png)
 
+This image displays the breakdown of bike riders by gender:
+https://capture.dropbox.com/tlJrGWCSMjCD41Bl
 
 Summary:
 
